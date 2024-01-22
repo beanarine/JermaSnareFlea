@@ -1,8 +1,8 @@
 {
     "name": "JermaSnareFlea",
-    "version_number": "1.0.0",
+    "version_number": "1.0.2",
     "author": "beanarine",
-    "website_url": "github.com/beanarine/JermaSnareFlea",
+    "website_url": "https://github.com/beanarine/JermaSnareFlea",
     "description": "The attacking sounds of the Snare Flea have been replaced with sounds from the clip [Jerma985 - THE SMALL ENEMY SPIDER](https://www.youtube.com/watch?v=WKy6KE70xLY)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",

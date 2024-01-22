@@ -1,3 +1,8 @@
+---
+Name: Small Enemy Snare Flea
+Version: 1.0.2
+---
+
 ## What Sounds Changed:
 The attacking sounds of the Snare Flea have been replaced with sounds from the clip [Jerma985 - THE SMALL ENEMY SPIDER](https://www.youtube.com/watch?v=WKy6KE70xLY)
 
